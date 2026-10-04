@@ -1,0 +1,5 @@
+git remote add origin https://github.com/ntangreksaa/wildan-.git
+git branch -M main
+git push -u origin main
+
+1 2 3 
